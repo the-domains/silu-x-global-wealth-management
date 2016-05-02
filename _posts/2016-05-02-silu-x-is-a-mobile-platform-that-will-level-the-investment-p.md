@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Silu X is a mobile platform that will level the investment playing field in China by providing access to international markets for savers of any income level
-datePublished: '2016-05-02T16:19:42.927Z'
-dateModified: '2016-05-02T16:15:26.337Z'
+datePublished: '2016-05-02T16:23:11.187Z'
+dateModified: '2016-05-02T16:19:52.438Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-silu-x-is-a-mobile-platform-that-will-level-the-investment-p.md
