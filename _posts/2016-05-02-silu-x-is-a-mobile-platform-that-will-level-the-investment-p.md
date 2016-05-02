@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Silu X is a mobile platform that will level the investment playing field in China by providing access to international markets for savers of any income level
-datePublished: '2016-05-02T16:15:22.642Z'
-dateModified: '2016-05-02T16:14:23.869Z'
+datePublished: '2016-05-02T16:19:42.927Z'
+dateModified: '2016-05-02T16:15:26.337Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-silu-x-is-a-mobile-platform-that-will-level-the-investment-p.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-silu-x-is-a-mobile-platform-that-will-level-the-investment-p.md
-published: true
 url: silu-x-is-a-mobile-platform-that-will-level-the-investment-p/index.html
 _type: Article
 
@@ -43,7 +43,6 @@ Diversification through asset allocation
 Easy access and registration within minutes
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6af5e37f-dd14-4e42-ad78-c31d3be5b83b.png)
 
-  
 Target Market
 
 22 million (and growing ) households in China's urban affluent and middle class, who have mobile phone, large savings, and an undeniable for portfolio investments
